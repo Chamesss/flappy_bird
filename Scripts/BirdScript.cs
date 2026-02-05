@@ -26,13 +26,13 @@ public class BirdScript : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        logic.GameOver();
+        logic?.GameOver();
     }
     
     // get offbounds of the screen
     private void OnBecameInvisible()
     {
-        logic.GameOver();
+        logic?.GameOver();
     }
 
 }
