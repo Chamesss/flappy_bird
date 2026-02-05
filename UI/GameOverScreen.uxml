@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; flex-wrap: nowrap; flex-direction: column; align-items: center; justify-content: center; align-self: auto; align-content: auto; padding-bottom: 0; padding-top: 0; margin-top: 9px; margin-right: 9px; margin-bottom: 9px; margin-left: 9px;">
+        <ui:Label text="GameOver" style="margin-bottom: 6px; -unity-font-style: bold; color: rgb(255, 255, 255); font-size: 60px;"/>
+        <ui:Button text="Play Again" name="replay" style="margin-top: 0; margin-bottom: 0; font-size: 30px; padding-top: 23px; padding-bottom: 23px; padding-right: 25px; padding-left: 25px;"/>
+    </ui:VisualElement>
+</ui:UXML>
