@@ -1,3 +1,3 @@
-# flappy_bird
+# Flappy Bird
 
 ### Unity Project
